@@ -1,7 +1,7 @@
 {
-  "name": "@pdg/npm-template",
-  "title": "NPM Template Module",
-  "description": "NPM Template Module",
+  "name": "@pdg/color",
+  "title": "Typescript Color Module",
+  "description": "Typescript Color Module",
   "version": "1.0.0",
   "type": "module",
   "main": "./dist/index.js",
@@ -16,13 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/parkdigy/npm-template.git",
-    "baseUrl": "https://github.com/parkdigy/npm-template"
+    "url": "git+https://github.com/parkdigy/color.git",
+    "baseUrl": "https://github.com/parkdigy/color"
   },
   "bugs": {
-    "url": "https://github.com/parkdigy/npm-template/issues"
+    "url": "https://github.com/parkdigy/color/issues"
   },
-  "homepage": "https://github.com/parkdigy/npm-template#readme",
+  "homepage": "https://github.com/parkdigy/color#readme",
   "files": [
     "dist",
     "README.md"

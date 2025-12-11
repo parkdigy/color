@@ -1,8 +1,8 @@
-# @pdg/npm-template
+# @pdg/color
 
-NPM Template Module
+Typescript Color Module
 
 ## 설치
 ```
-npm install -D @pdg/npm-template
+npm install -D @pdg/color
 ```
